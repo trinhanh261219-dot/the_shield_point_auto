@@ -2,7 +2,7 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { PRODUCTS } from './constants';
 import { View, Product, CartItem, Order } from './types';
-import { getAIRecommendation } from './services/geminiService';
+import { getAIRecommendation } from './geminiService';
 import { 
   Search, Send, ShoppingCart, Plus, Minus, Trash2, QrCode, 
   ArrowRight, Sparkles, Clock, CheckCircle, Smartphone, 
