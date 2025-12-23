@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { View } from '../types';
+import { View } from './types';
 import { ShoppingBag, History, Home, Box, Smartphone, Zap, Shield } from 'lucide-react';
 
 interface LayoutProps {
