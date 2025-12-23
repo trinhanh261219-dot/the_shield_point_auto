@@ -1,0 +1,13 @@
+
+{
+  "name": "THE SHIELD POINT",
+  "short_name": "ShieldPoint",
+  "description": "Hệ thống đặt hàng trực tuyến và nhận hàng tại máy bán hàng tự động bằng mã QR, mang lại sự riêng tư và tiện lợi.",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#f8fafc",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
