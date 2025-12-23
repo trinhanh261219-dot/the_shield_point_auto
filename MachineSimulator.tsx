@@ -1,7 +1,7 @@
 
 import React, { useState } from 'react';
 import { Camera, QrCode, CheckCircle2, Package, Loader2, ArrowRight, ShieldCheck, Zap } from 'lucide-react';
-import { Order } from '../types';
+import { Order } from './types';
 
 interface MachineSimulatorProps {
   orders: Order[];
